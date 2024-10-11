@@ -1,2 +1,3 @@
-# go_book_webapp
-This is a web application that presents an online store with books. Implementation of the backend and frontend parts for this project using the GO programming language
+# A web application on Golang for the sale of books
+This is the implementation of a project that is a web application that is an online store for the online sale of books. For the implementation of this project, the Golang programming language and its capabilities for the implementation of tasks will be used
+
